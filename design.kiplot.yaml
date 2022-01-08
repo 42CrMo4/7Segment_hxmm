@@ -175,3 +175,5 @@ outputs:
       metric_units: true
       download: true
       kicad_3d_url: 'https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/'
+      orthographic: true
+      zoom: 7
