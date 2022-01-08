@@ -1001,4 +1001,26 @@ Text Notes 8600 2600 0    50   ~ 0
 Pin header
 Text Notes 8600 700  0    50   ~ 0
 Delimiter
+$Comp
+L power:VCC #PWR?
+U 1 1 61E1EAFF
+P 9800 1200
+F 0 "#PWR?" H 9800 1050 50  0001 C CNN
+F 1 "VCC" H 9815 1373 50  0000 C CNN
+F 2 "" H 9800 1200 50  0001 C CNN
+F 3 "" H 9800 1200 50  0001 C CNN
+	1    9800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61E1F169
+P 9800 1800
+F 0 "#PWR?" H 9800 1550 50  0001 C CNN
+F 1 "GND" H 9805 1627 50  0000 C CNN
+F 2 "" H 9800 1800 50  0001 C CNN
+F 3 "" H 9800 1800 50  0001 C CNN
+	1    9800 1800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
