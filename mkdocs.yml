@@ -1,0 +1,23 @@
+site_name: Demo Site
+site_description: Demo Site description
+site_author: YOUR-NAME
+# site_url: https://YOUR-NAME.github.io/REPO-NAME/
+# dev_addr: 127.0.0.1:9000
+theme:
+  name: 'material'
+repo_name: YOUR-GITHUB-USERNAME/REPO-NAME
+repo_url: https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME
+markdown_extensions:
+  - toc
+  - extra
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+nav:
+    - "Home": "index.md"
+    - "Section 1":
+      # - "Section 1 Page 1": "section-01/page-01.md"
+    - "Section 2":
+      # - "Section 2 Page 1": "section-02/page-01.md"
