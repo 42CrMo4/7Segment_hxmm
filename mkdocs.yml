@@ -5,8 +5,8 @@ site_author: YOUR-NAME
 # dev_addr: 127.0.0.1:9000
 theme:
   name: 'material'
-repo_name: YOUR-GITHUB-USERNAME/REPO-NAME
-repo_url: https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME
+#repo_name: YOUR-GITHUB-USERNAME/REPO-NAME
+#repo_url: https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME
 markdown_extensions:
   - toc
   - extra
